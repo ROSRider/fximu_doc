@@ -1,0 +1,6 @@
+site_name: FXIMU Documentation
+pages:
+- Introduction: README.md
+- Getting Started: QUICK.md
+- HOWTO: HOWTO.md
+theme: readthedocs
