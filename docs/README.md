@@ -56,7 +56,7 @@ During normal operation, if ROS connection is active, red led will turn on faint
 If the device is at steady state, then green led will turn on faintly, indicating that the device is on stationary state.
 
 
-**Credits**
+#### Credits
 
 _Roberto G. Valenti_ for writing the original complementary filter.
 
