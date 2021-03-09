@@ -1,7 +1,7 @@
 site_name: FXIMU Documentation
 pages:
-- 'README.md'
-- QUICKSTART: 'QUICK.md'
+- Introduction: README.md
+- QUICKSTART: QUICK.md
 - PARAMETERS: PARAMS.md
 - HOWTO: HOWTO.md
 theme: readthedocs
