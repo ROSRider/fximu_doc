@@ -4,4 +4,5 @@ pages:
 - QUICKSTART: QUICK.md
 - PARAMETERS: PARAMS.md
 - HOWTO: HOWTO.md
+- EKF: EKF.md
 theme: readthedocs
