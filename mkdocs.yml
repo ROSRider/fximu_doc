@@ -3,6 +3,7 @@ pages:
 - Introduction: README.md
 - QUICKSTART: QUICK.md
 - PARAMETERS: PARAMS.md
+- CALIBRATION: CALIBRATION.md
 - HOWTO: HOWTO.md
 - EKF: EKF.md
 theme: readthedocs
