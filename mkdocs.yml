@@ -1,6 +1,6 @@
 site_name: FXIMU Documentation
 pages:
-- Introduction: README.md
+- INTRO: README.md
 - QUICKSTART: QUICK.md
 - PARAMETERS: PARAMS.md
 - CALIBRATION: CALIBRATION.md
